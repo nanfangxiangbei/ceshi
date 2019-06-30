@@ -9,3 +9,4 @@ def index(request):
 
 print("hhh")
 print("hhh")
+print(hhh")
